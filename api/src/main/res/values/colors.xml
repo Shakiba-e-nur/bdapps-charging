@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_60">#666666</color>
+    <color name="cyan_800_overlay">#99F44336</color>
+
+    <color name="colorFacebook">#3B5999</color>
+    <color name="colorGoogle">#cf4332</color>
+    <color name="colorEmail">#5d5d67</color>
+
+
+    <color name="White">#ffffff</color>
+
+</resources>

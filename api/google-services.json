@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685615515754",
+    "firebase_url": "https://bdrobidapps.firebaseio.com",
+    "project_id": "bdrobidapps",
+    "storage_bucket": "bdrobidapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685615515754:android:824782129e4cfd52b0e213",
+        "android_client_info": {
+          "package_name": "com.smnadim21.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685615515754-j7l1b272csmlhgddl5ibu0jqtev2jc25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHsiAgUL72KVlZO97btaHA8qSk5zfUsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685615515754-j7l1b272csmlhgddl5ibu0jqtev2jc25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+include ':bdappscharginglibrary'
+include ':api'
+include ':app'
+rootProject.name = "BdAppsCharging"
